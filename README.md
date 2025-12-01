@@ -25,15 +25,6 @@ This project is a **Face Recognition System** utilizing **Thermal Imaging** for 
 ├── test model.h5       # Pre-trained Keras model
 └── Final Doc.pdf       # Project documentation
 ```
-
-## Cloning the Repository
-
-To clone this repository, run the following command:
-
-```bash
-git clone https://github.com/MohamedAmr51/ThermalFaceRec.git
-```
-
 ## Installation & Setup
 
 ### Prerequisites
