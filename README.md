@@ -1,4 +1,4 @@
-# ThermalFaceRec: Face Recognition Using Thermal Imaging
+# Face Recognition Using Thermal Imaging
 
 ## Overview
 
